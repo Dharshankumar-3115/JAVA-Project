@@ -32,7 +32,7 @@ class Product
         System.out.println("ID: " + id + ", Name: " + name + ", Quantity: " + quantity);
     }
 }
-class GodownManagementSystem
+class GSM
 {
     private static ArrayList<Product> productList = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
